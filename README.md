@@ -22,11 +22,11 @@ This dashboard was created for **Job seekers, Job Transitions, and Job Swappers*
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page 1](/Images/Project1_Page1.PNG)
+![Dashboard Page 1](Images/Images/Project1_Page1.PNG)
 
 This is your mission control for the data job market.It showcases, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
-![Dashboard Page 2](/Images/Project2_Page2.PNG)
+![Dashboard Page 2](Images/Images/Project2_Page2.PNG)
 
 This is the deep-drive page.From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
