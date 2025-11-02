@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
 # Data Jobs Dashboard w/ Power Bi
 
-![Dashboard Page 1](../Images/Project1_Page1)
+![Dashboard Page 1](/Images/Project1_Page1.PNG)
 ## Introduction
 
 This dashboard was created for **Job seekers, Job Transitions, and Job Swappers** to solve common porblem: information about the data job market is scattered and hard to grasp. Using a *real-world dataset of 2024 data science job postings*(including titles, salaries, and locatrions), this project provides a single, easy-to-use interface to explore market trends and compensations.
@@ -35,4 +33,3 @@ This is the deep-drive page.From the main dashboard, you can drill through to th
 ## Conclusion
 
 This dashboard showcases how Power Bi can transform raw job posting data into a powerful tool for career analysis.It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
->>>>>>> 5e776f074d61d72a3ed11dc906a00b3813473e8f
