@@ -20,9 +20,11 @@ Used **Cards** to display key metrics and **Tables**to provide granular, sortabl
         -  **Buttons & Bookmarks:** To create a seamless navigation experience.
         -  **Drill-Through:** To navigate from a high-level summary to a contextual, detailed view.
 
-## Data Jobs Dashboard(V1- Comprehensive Exploration)
+## Dashboard Overview
 
-![Data Jobs DB GIF](/images/Project1_Dashboard_Page1.gif)
+### Page 1: High-Level Market View
+
+![Dashboard Page1](/images/Project1_Dashboard_Page1.gif)
 
 This is your mission control for the data job market. It showcases key KPIs like job count, median salaried, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
