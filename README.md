@@ -22,11 +22,11 @@ Explore the dashboards below.Each ha its own dedicated README with more detials 
 * Buttons & Bookmarks for page Navigation
 * Drill-Through Functionality
 
-[**View Full Project 2 Details (README)**](/Data_Jobs_v1/README.md)
+[**View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
 ##  Data Jobs Dashboard (v2 - Single-Page Focus)
 
-![Data Jobs Dashboard 2.0](/images/Project2_Page2.PNG)
+![Data Jobs Dashboard 2.0](/images/Project2_Page1.PNG)
 
 **Key Power BI Skills Utilized (demonstrating progression):**
 * Advanced Dashboard Design (Single-Page UX & Optimization)
