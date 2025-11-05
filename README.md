@@ -14,7 +14,7 @@ This dashboard was created for **Job Seekers, Job Transitions, and Job Swappers*
 - **Geospatial Analysis:** Leverged **Map Charts** to visualize the global distribution of jobs.
 - **KPI Indicators & Tables:**
 Used **Cards** to display key metrics and **Tables**to provide granular, sortable data.
-- **Dashboard Design:**Designed an intutitve and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
+- **Dashboard Design:** Designed an intutitve and visually appealing layout, exploring both common and uncommon chart types to best tell the data story.
 -    **Interactive Reporting:**
         - **Slicers:** To dynamically filter the report by Job Title.
         -  **Buttons & Bookmarks:** To create a seamless navigation experience.
