@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page1](/images/Project1_Dashboard_Page1.gif)
+![Dashboard Page1](/images/Project1_Page1.PNG)
 
 ## Introduction
 
@@ -24,13 +24,13 @@ Used **Cards** to display key metrics and **Tables**to provide granular, sortabl
 
 ### Page 1: High-Level Market View
 
-![Dashboard Page1](/images/Project1_Dashboard_Page1.gif)
+![Dashboard Page1](/images/Project1_Page1.PNG)
 
 This is your mission control for the data job market. It showcases key KPIs like job count, median salaried, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page1](/images/Project1_Dashboard_Page2.gif)
+![Dashboard Page1](/images/Project1_Page2.PNG)
 
 
 This is the deep-drive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map to job locations.
